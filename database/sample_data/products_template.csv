@@ -1,0 +1,4 @@
+sku,name,category,unit_cost,lead_time_days,safety_stock,max_stock,supplier_name
+"SKU-1001","Industrial Motor","Machinery",245.5,14,12,200,"Northwind Supplies"
+"SKU-1002","Safety Valve","Industrial",82.25,10,8,150,"BluePeak Manufacturing"
+"SKU-1003","Packaging Box","Packaging",12.8,5,40,500,"Northwind Supplies"

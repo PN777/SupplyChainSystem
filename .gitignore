@@ -1,0 +1,27 @@
+# Python
+env/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.log
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.env
+
+# Environment
+.env
+backend/.env
+
+# Database / local files
+*.sqlite3
+*.db
+mysql-data/
+
+# IDE & Tools
+.vscode/
+.idea/
+.DS_Store
+.freebuff/

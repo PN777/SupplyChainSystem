@@ -1,0 +1,4 @@
+product_sku,movement_date,movement_type,quantity,reference,description
+"SKU-1001","2026-01-05","Stock In",25,"PO-1001","Initial receipt"
+"SKU-1001","2026-01-08","Stock Out",12,"SALE-440","Customer shipment"
+"SKU-1002","2026-01-07","Adjustment",-3,"COUNT-01","Cycle count adjustment"
